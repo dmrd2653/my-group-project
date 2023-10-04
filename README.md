@@ -1,6 +1,6 @@
 # Docomomo MN / US Modern Registry Map
 
-Docomomo MN's Minnesota Modern Registry documents the wide array of buildings, sites, and neighborhoods of the modern movement in the state of Minnesota. Our team from Prime Digital Academy upgraded the initial version of the map with the following: 
+Docomomo MN's Minnesota Modern Registry documents the wide array of buildings, sites, and neighborhoods of the modern movement in the state of Minnesota and throughout the Midwest. Our team from Prime Digital Academy upgraded the initial version of the map with the following: 
 
 * Responsive design that is mobile friendly
 * Clustering of sites allows for easier navigation and reduced delay on map load
@@ -8,7 +8,7 @@ Docomomo MN's Minnesota Modern Registry documents the wide array of buildings, s
 * Individual pages for each site with details
 * Login allows administrators to edit, add, and delete sites from database
 
-[Live Deployed Site](https://docomomo-mn-modern-registry-28e0f754dd03.herokuapp.com/#/home)
+[Live Deployed Site](https://my-group-project-c388448b6f62.herokuapp.com/home)
 
 ## Screenshots
 
@@ -52,7 +52,7 @@ Before you get started, make sure you have the following software installed on y
 
 1. Create a new Heroku project
 1. Link the Heroku project to the project GitHub Repo
-1. Create an Heroku Postgres database
+1. Create a new Heroku Postgres database
 1. Connect to the Heroku Postgres database from Postico
 1. Create the necessary tables
 1. Add an environment variable for `SERVER_SESSION_SECRET` with a nice random string for security
@@ -81,6 +81,6 @@ Before you get started, make sure you have the following software installed on y
 ## Acknowledgments
 
 * Thank you to [Prime Digital Academy](https://www.primeacademy.io/) whose starter repo we used!
-* Thank you to our instructors, Zac Delventhal, Chris Black, and Peter DeMaio
-* Thank you to the rest of our Topaz cohort!!
+* Thank you to our instructors Zac Delventhal, Chris Black, and Peter DeMaio!
+* Thank you to the rest of our Topaz cohort!
 
